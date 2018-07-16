@@ -41,7 +41,7 @@ public class HandBlackJack extends Hand {
 		}
 	}
 	
-	private void AddCardToHand(Card c)
+	private void AddToHand(Card c)
 	{
 		super.AddCard(c);
 	}
